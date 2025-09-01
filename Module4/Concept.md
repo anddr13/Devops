@@ -73,6 +73,6 @@ k3d: бекенд — k3s; легко додати Ingress/Traefik; прости
 
 
 Демонстрація (рекомендація: k3d + «Hello World»)
-
+[![asciicast](https://asciinema.org/a/laA84I5umhQOWrQJYxwFgsM0G.svg)](https://asciinema.org/a/laA84I5umhQOWrQJYxwFgsM0G)
 
 
